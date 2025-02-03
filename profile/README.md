@@ -1,3 +1,3 @@
 # RaveSphere
 
-RaveSphere is a PlugDJ Clone project to learn fullstack, DevOps and Kubenetes. Utilizing the MACH architecture.
+RaveSphere is a PlugDJ Clone project to learn fullstack, DevOps, Kubenetes and much more. Utilizing the MACH architecture.
