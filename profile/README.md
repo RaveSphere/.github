@@ -6,4 +6,4 @@ RaveSphere is a PlugDJ Clone project to learn fullstack, DevOps, Kubenetes and m
 # To use docker build
 
 cd to the root
-docker build -t rs-localrepo/rs-<<service>>:latest -f Api/Dockerfile .
+docker build -t rs-localrepo/rs-< service >:latest -f Api/Dockerfile .
